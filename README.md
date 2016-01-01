@@ -1,24 +1,14 @@
 
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
 
+    888    d8P                                    888                            
+    888   d8P                                     888                            
+    888  d8P                                      888                            
+    888d88K     888d888 .d88b.  88888b.   .d88b.  888 888  888 88888b.  888  888 
+    8888888b    888P"  d88""88b 888 "88b d88""88b 888 888  888 888 "88b `Y8bd8P' 
+    888  Y88b   888    888  888 888  888 888  888 888 888  888 888  888   X88K   
+    888   Y88b  888    Y88..88P 888  888 Y88..88P 888 Y88b 888 888  888 .d8""8b. 
+    888    Y88b 888     "Y88P"  888  888  "Y88P"  888  "Y88888 888  888 888  888 
+                                                           888                   
+                                                      Y8b d88P                   
+                                                       "Y88P"                    
 
-Welcome to your Rails project on Cloud9 IDE!
-
-To get started, just do the following:
-
-1. Run the project with the "Run Project" button in the menu bar on top of the IDE.
-2. Preview your new app by clicking on the URL that appears in the Run panel below (https://finance-tracker-kronolynx.c9users.io/).
-
-Happy coding!
-The Cloud9 IDE team
-
-
-## Support & Documentation
-
-Visit http://docs.c9.io for support, or to learn more about using Cloud9 IDE. 
-To watch some training videos, visit http://www.youtube.com/user/c9ide
